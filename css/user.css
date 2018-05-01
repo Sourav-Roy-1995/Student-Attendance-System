@@ -1,0 +1,55 @@
+.login-form {
+    border: 3px solid #f1f1f1;
+    margin-top: 215px;
+    margin-bottom: 225px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.19), 0 2px 4px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px;
+}
+
+/* Full-width inputs */
+.login-input-name{
+    width: 35%;
+    padding: 12px 20px;
+    margin: 16px 37px;
+    margin-right: 36px;
+    margin-right: 7px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-right: 624px;
+}
+.login-input {
+    width: 35%;
+    padding: 12px 20px;
+    margin: 16px 8px;
+    margin-right: 36px;
+    margin-right: 7px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-right: 624px;
+}
+.login-pass{ width: 35%;
+    padding: 12px 20px;
+    margin: 16px 7px;
+    margin-right: 7px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-right: 624px;}
+
+/* Set a style for all buttons */
+.login-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 74px;
+    border: none;
+    cursor: pointer;
+    width: 36%;
+}
+
+/* Add a hover effect for buttons */
+.login-btn:hover {
+    opacity: 0.8;
+}
